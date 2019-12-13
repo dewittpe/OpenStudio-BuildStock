@@ -1,0 +1,63 @@
+﻿Field,Description
+total_site_electricity_kwh (double),Total electricity consumption
+net_site_electricity_kwh (double),Total electricity consumption less electricity generation
+electricity_heating_kwh (double),Electricity used for building-unit-specific heating
+electricity_central_system_heating_kwh (double),Electricity used for heating from systems that serve multiple building units (allocated)
+electricity_cooling_kwh (double),Electricity used for cooling
+electricity_central_system_cooling_kwh (double),Electricity used for cooling from systems that serve multiple building units (allocated)
+electricity_interior_lighting_kwh (double),Electricity used for indoor lighting
+electricity_exterior_lighting_kwh (double),Electricity used for outdoor lighting
+electricity_interior_equipment_kwh (double),"Electricity used for refrigerator, clothes washer, clothes dryer, cooking range, dishwasher, plug loads, house fan, range fan, bath fan, ceiling fan, extra refrigerator, freezer, pool heater, pool pump, hot tub heater, hot tub pump, and well pump"
+electricity_fans_heating_kwh (double),Electricity used for fans for heating purposes (e.g. furnace fan)
+electricity_fans_cooling_kwh (double),Electricity used for fans for cooling purposes
+electricity_pumps_heating_kwh (double),Electricity used for pumps for heating purposes
+electricity_central_system_pumps_heating_kwh (double),Electricity used for pumps for heating purposes from systems that serve multiple building units (allocated)
+electricity_pumps_cooling_kwh (double),Electricity used for pumps for cooling purposes
+electricity_central_system_pumps_cooling_kwh (double),Electricity used for pumps for cooling purposes from systems that serve multiple building units (allocated)
+electricity_water_systems_kwh (double),Electricity for water heating including associated pumps and fans.
+electricity_pv_kwh (double),Electricity generated from PV systems
+total_site_natural_gas_therm (double),Total natural gas consumption
+natural_gas_heating_therm (double),Natural gas used for building-unit-specific heating
+natural_gas_central_system_heating_therm (double),Natural gas used for heating from systems that serve multiple building units (allocated)
+natural_gas_interior_equipment_therm (double),"Natural gas used for clothes dryer, cooking range, pool heater, and hot tub heater."
+natural_gas_water_systems_therm (double),Natural gas used for water heating
+total_site_fuel_oil_mbtu (double),Total fuel oil consumption
+fuel_oil_heating_mbtu (double),Fuel oil used for building-unit-specific heating
+fuel_oil_central_system_heating_mbtu (double),Fuel oil used for heating from systems that serve multiple building units (allocated)
+fuel_oil_interior_equipment_mbtu (double),Fuel oil used for 
+fuel_oil_water_systems_mbtu (double),Fuel oil used for water heating
+total_site_propane_mbtu (double),Total propane consumption
+propane_heating_mbtu (double),Propane used for heating
+propane_central_system_heating_mbtu (double),Propane used for heating from systems that serve multiple building units (allocated)
+propane_interior_equipment_mbtu (double),"Propane used for clothes dryer, cooking range, pool heater, and hot tub heater."
+propane_water_systems_mbtu (double),Propane used for water heating
+total_site_energy_mbtu (double),Total energy consumption from all fuels
+net_site_energy_mbtu (double),"Total energy consumption less generation, for all fuels"
+electricity_refrigerator_kwh (double),Electricity used by primary refrigerator or refrigerator/freezer
+electricity_clothes_washer_kwh (double),Electricity used by clothes washer
+electricity_clothes_dryer_kwh (double),Electricity used by clothes dryer
+natural_gas_clothes_dryer_therm (double),Natural gas used by clothes dryer
+propane_clothes_dryer_mbtu (double),Propane used by clothes dryer
+electricity_cooking_range_kwh (double),Electricity used by cooking range
+natural_gas_cooking_range_therm (double),Natural gas used by cooking range
+propane_cooking_range_mbtu (double),Propane used by cooking range
+electricity_dishwasher_kwh (double),Electricy used by dishwasher
+electricity_plug_loads_kwh (double),Electricity used by other plug loads
+electricity_house_fan_kwh (double),Electricity used by whole house mechanical ventilation systems.
+electricity_range_fan_kwh (double),Electricity used by range (kitchen exhaust) fan(s)
+electricity_bath_fan_kwh (double),Electricity used by bathroom fan(s)
+electricity_ceiling_fan_kwh (double),Electricity used by ceiling fan(s)
+electricity_extra_refrigerator_kwh (double),Electricity used by second refrigerator
+electricity_freezer_kwh (double),Electricity used by stand-alone freezer
+electricity_pool_heater_kwh (double),Electricity used by pool heater
+natural_gas_pool_heater_therm (double),Natural gas used by pool heater
+electricity_pool_pump_kwh (double),Electricity used by pool pump
+electricity_hot_tub_heater_kwh (double),Electricity used by hot tub heater
+natural_gas_hot_tub_heater_therm (double),Natural gas used by hot tub heater
+electricity_hot_tub_pump_kwh (double),Electricity used by hot tub pump
+natural_gas_grill_therm (double),Natural gas used by grill
+natural_gas_lighting_therm (double),Natural gas used by lighting
+natural_gas_fireplace_therm (double),Natural gas used by fireplace
+electricity_well_pump_kwh (double),Electricity used by well pump
+electricity_garage_lighting_kwh (double),Electricity used by garage lighting
+electricity_exterior_holiday_lighting_kwh (double),Electricity used by holiday lighting
