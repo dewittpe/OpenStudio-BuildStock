@@ -1,0 +1,10 @@
+Dependency=Census Division	Option=Midwest	Option=Northeast	Option=South	Option=West
+Middle Atlantic	0	1	0	0
+New England	0	1	0	0
+East North Central	1	0	0	0
+West North Central	1	0	0	0
+East South Central	0	0	1	0
+South Atlantic	0	0	1	0
+West South Central	0	0	1	0
+Mountain	0	0	0	1
+Pacific	0	0	0	1
